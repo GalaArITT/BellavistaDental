@@ -1,0 +1,45 @@
+
+
+.divAcomodo{
+    width: 100%;
+    height: 20%;
+}
+h2{
+    text-align: center;
+    font-family: Calibri, sans-serif;
+    font-weight: 400;
+    height: 60px;
+    width:100%;
+    background: #03A9F4;
+    line-height: 60px;
+    color:white;
+}
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.margenArriba{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.margenLateral{
+    margin-top: 10px;
+}
+
+.divP{
+    float:none;
+    margin-top: 5px;
+}
+#div1{
+    border-radius:20px;
+    background: white;
+    height: 100%;
+}
+img{
+    max-height: 20%;
+    max-width: 20%;
+}
+
+.cmb{
+    margin-left: 60px;
+}

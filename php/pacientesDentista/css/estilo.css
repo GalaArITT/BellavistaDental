@@ -1,0 +1,36 @@
+
+*/*Este asterisco es un identificador para dar estilo al todo la pagina*/
+{
+margin: 0;
+}
+#divLogin form
+{
+background: #FDFBC0;
+width: 90%;
+margin-left: 5%;
+margin-right: 5%;
+border: 1px solid black;
+margin-top: 6%;
+}
+
+label,input[type="text"],input[type="password"]
+{
+margin-top: 15px;
+display: block;
+margin-left: 25%;
+width: 50%;
+}
+
+input[type="submit"]
+{
+margin-left: 30%;
+font-family: 'helvetica';	
+margin-bottom: 2%;
+}
+input[type="reset"] {
+    position: relative;
+    left: 10%;
+}
+
+
+

@@ -1,0 +1,30 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.margenArriba{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.margenLateral{
+    margin-top: 10px;
+}
+
+.divP{
+    float:none;
+    margin-top: 5px;
+}
+#div1{
+    border-radius:20px;
+    background: white;
+    height: 100%;
+}
+ img{
+     float:right;
+     max-height: 10%;
+     max-width: 10%;
+ }
+
+ .cmb{
+     margin-left: 50px;
+ }

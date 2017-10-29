@@ -1,0 +1,24 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.margenArriba{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.margenLateral{
+    margin-top: 10px;
+}
+
+.divP{
+    float:none;
+    margin-top: 5%;
+}
+#div1{
+    border-radius: 5%;
+    background: white;
+}
+ img{
+     max-height: 20%;
+     max-width: 20%;
+ }
